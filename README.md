@@ -31,9 +31,9 @@ The dataset contains:
 ARIMA (AutoRegressive Integrated Moving Average)
 
 ## Key Findings
-• Section 4 had the highest violation rate.
-• Time series analysis showed trends in violations.
-• ARIMA model was used to forecast future violation patterns.
+• Section 4 had the highest violation rate
+• Time series analysis showed trends in violations
+• ARIMA model was used to forecast future violation patterns
 
 ## Outcome
 The model predicted future violations for the most violated COTPA section, helping to understand possible future enforcement trends.
