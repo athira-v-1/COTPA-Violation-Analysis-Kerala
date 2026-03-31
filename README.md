@@ -37,3 +37,6 @@ ARIMA (AutoRegressive Integrated Moving Average)
 
 ## Outcome
 The model predicted future violations for the most violated COTPA section, helping to understand possible future enforcement trends.
+
+
+## View Full Report : https://drive.google.com/file/d/1C87NN4R_q7VmPmRzLyLZXUUnLDuWoLM3/view?usp=drivesdk
